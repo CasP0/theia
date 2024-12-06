@@ -35,7 +35,7 @@
     "@vscode/codicons": "^0.0.21",
     "ajv": "^6.5.3",
     "body-parser": "^1.17.2",
-    "cookie": "^0.4.0",
+    "cookie": "^0.7.0",
     "dompurify": "^2.2.9",
     "drivelist": "^9.0.2",
     "es6-promise": "^4.2.4",
